@@ -1,0 +1,30 @@
+2025-11-26 16:50:20 | administrador | creo cuenta
+2025-11-26 16:51:04 | administrador | inicio sesion
+2025-11-26 16:51:19 | administrador | cerro sesion
+2025-11-26 18:23:07 | yedriel | creo cuenta
+2025-11-26 18:23:23 | yedriel | inicio sesion
+2025-11-26 18:23:56 | yedriel | creo nota para Yedriel Laureano en Historia
+2025-11-26 18:24:21 | yedriel | edito nota de Yedriel Laureano en Historia
+2025-11-26 18:24:39 | yedriel | elimino nota de Yedriel Laureano en Historia
+2025-11-26 18:25:04 | yedriel | creo nota para Yedriel Laureano en Historia
+2025-11-26 18:25:08 | yedriel | cerro sesion
+2025-11-26 18:25:43 | yedriel1 | creo cuenta
+2025-11-26 18:25:56 | yedriel1 | inicio sesion
+2025-11-26 18:26:04 | yedriel1 | cerro sesion
+2025-11-26 18:32:25 | yedriel | inicio sesion
+2025-11-26 18:32:43 | yedriel | cerro sesion
+2025-11-26 18:33:20 | yedriel1 | inicio sesion
+2025-11-26 18:33:41 | yedriel1 | cerro sesion
+2025-11-26 18:34:00 | administrador | inicio sesion
+2025-11-26 18:34:13 | administrador | cerro sesion
+2025-11-26 18:51:33 | yedriel | inicio sesion
+2025-11-26 18:51:56 | yedriel | edito nota de Yedriel Laureano en Historia
+2025-11-26 18:52:14 | yedriel | elimino nota de Yedriel Laureano en Historia
+2025-11-26 18:52:20 | yedriel | cerro sesion
+2025-11-26 18:52:45 | yedriel1 | inicio sesion
+2025-11-26 18:52:52 | yedriel1 | cerro sesion
+2025-11-26 18:53:07 | administrador | inicio sesion
+2025-11-26 18:53:26 | administrador | cerro sesion
+2025-11-26 18:57:01 | yedriel | inicio sesion
+2025-11-26 18:58:14 | yedriel | creo nota para Yedriel Laureano en Historia
+2025-11-26 18:58:36 | yedriel | cerro sesion

@@ -1,0 +1,3 @@
+administrador a7c995dfb04956752a2909e532e17bf675f1bc8e admin Administrador
+yedriel 8227062a157f8601c8cd682f37230c17b55ffedf maestro Yedriel Laureano
+yedriel1 9a9ead89f64e96f150751580d4afa747b5443f5a estudiante Yedriel Laureano
